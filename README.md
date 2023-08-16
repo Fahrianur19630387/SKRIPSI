@@ -1,4 +1,5 @@
-Aplikasi Permintaan dan Persetujuan Material Teknik
+APLIKASI INVENTORY DAN MONITORING ASET PADA PT. CHAROEN POKPHAND JAYA FARM BANJARMASIN 1
+(PT CPJF BANJARMASIN 1)
 =========
 
 Penjelasan
