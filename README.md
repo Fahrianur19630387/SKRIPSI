@@ -1,4 +1,5 @@
-Aplikasi Permintaan dan Persetujuan Material Teknik
+APLIKASI INVENTORY DAN MONITORING ASET PADA PT. CHAROEN POKPHAND JAYA FARM BANJARMASIN 1
+(PT CPJF BANJARMASIN 1)
 =========
 
 Penjelasan
@@ -29,5 +30,5 @@ Cara Instal
 
 Copyright & License
 -------
-Copyright (c) 2017 Slamet Riky
+Copyright (c) 2023 FAHRIANUR
 [GNU Public License](http://www.gnu.org/licenses/gpl-3.0.html)
